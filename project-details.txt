@@ -1,0 +1,3 @@
+Primary Color: #49c5b6
+Primary Light: #93ddd4
+Secondary Color: #262629

@@ -1,0 +1,12 @@
+/*
+	Theme Name: Prince - One Page Bootstrap 3 Portfolio HTML5 Template
+	Author: Mohammad Al Amin
+	Version: 1.0
+*/
+
+/* ## Responsive Design CSS */
+@media (max-width: 767px) {
+	.header-top-left, .header-top-right {
+		text-align: center;
+	}
+}

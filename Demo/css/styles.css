@@ -1,0 +1,71 @@
+/*
+	Theme Name: Prince - One Page Bootstrap 3 Portfolio HTML5 Template
+	Author: Mohammad Al Amin
+	Version: 1.0
+*/
+
+/* ========================================================================== */
+/* ========================================================================== */
+/* [Table of contents] */
+/* ========================================================================== */
+/* ========================================================================== */
+
+/*
+	01. ## Global
+	02. ## Header
+*/
+
+/* ## Global Start */
+body{
+	font-family: 'Roboto', sans-serif;
+	color: #262629;
+}
+a {
+	color: #49c5b6;
+}
+a:focus, a:active, a:hover {
+    outline: 0;
+	color: #49c5b6;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+/* ## Global End */
+
+/* ## Header Start */
+.header-top {
+	background-color: #49c5b6;
+}
+.header-top a{
+	color: #262629;
+	-webkit-transition: color .2s ease-out;
+	-moz-transition: color .2s ease-out;
+	-o-transition: color .2s ease-out;
+	transition: color .2s ease-out;
+}
+.header-top a:hover{
+	color: #fff;
+}
+.top-contact-info {
+	display: inline-block;
+	padding: 10px 0;
+}
+.top-contact-info i, .top-contact-info a {	
+	margin-left: 5px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.header-top-right{
+	text-align: right;
+}
+.header-top-right .social-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;	
+}
+.header-top-right .social-list li {
+	display: inline-block;
+	padding: 10px;
+}
+/* ## Header End */
